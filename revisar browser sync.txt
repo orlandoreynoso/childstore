@@ -1,0 +1,3 @@
+
+
+browser-sync start --proxy http://localhost/prendas/ --files "./*.php,./*.html,./template/*.php,./libs/*.php,./inc/*.php,./js/*.js,./css/*.css,./files/*.php,./woocommerce/*.php"
